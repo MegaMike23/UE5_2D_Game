@@ -2482,3 +2482,992 @@ UnknownFunction []
 [2024.01.04-07.20.20:241][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 6.67 sec)
 [2024.01.04-07.20.20:243][515]AssetCheck: New page: Asset Save: Playground_Map
 [2024.01.04-07.20.20:243][515]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Playground_Map.Playground_Map
+[2024.01.04-07.33.01:775][338]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.33.01:862][338]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.01:931][338]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.02:010][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.01.04-07.33.02:180][339]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.02:316][340]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.33.02:545][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.33.02:663][346]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.33.02:663][346]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionChar090AC0FB4DC5AA1C7C16FEA34A23ECEF.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.33.02:682][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 6.81 sec)
+[2024.01.04-07.33.02:684][346]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.33.02:684][346]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.33.07:646][502]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.33.07:729][502]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.07:795][502]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.07:869][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.01.04-07.33.08:035][503]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.08:170][504]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.33.08:253][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.33.08:377][506]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.33.08:377][506]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionChar2C4CF3A04063E5D52D5A6C94E5A3F9E7.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.33.08:393][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 6.95 sec)
+[2024.01.04-07.33.08:395][506]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.33.08:395][506]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.33.41:410][559]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.33.41:504][559]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.41:584][559]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.41:672][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.01.04-07.33.41:886][560]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.33.42:031][561]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.33.42:252][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.33.42:378][567]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.33.42:379][567]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionChar2A28C45846445E809F5605A2A144A7B6.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.33.42:396][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 7.09 sec)
+[2024.01.04-07.33.42:399][567]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.33.42:399][567]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.34.10:680][511]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.34.10:763][511]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.34.10:828][511]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.34.10:906][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.01.04-07.34.11:080][512]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.34.11:194][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.34.11:301][513]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.34.11:301][513]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionChar29AFC1BD4CFB9F932ECA6B9FCF4FC530.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.34.11:318][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 7.22 sec)
+[2024.01.04-07.34.11:320][513]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.34.11:320][513]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.34.11:330][513]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.34.16:736][688]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.34.16:833][688]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.34.16:915][688]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.34.17:005][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2024.01.04-07.34.17:201][689]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.34.17:344][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.34.17:437][690]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.34.17:437][690]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionCharD4C94BF44A791B6F26893FBF8D654DF3.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.34.17:453][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 7.33 sec)
+[2024.01.04-07.34.17:454][690]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.34.17:454][690]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.34.17:465][690]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.35.28:066][717]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.35.28:145][717]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.35.28:216][717]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.35.28:295][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.01.04-07.35.28:456][718]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.35.28:569][719]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.35.28:734][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.35.28:863][722]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.35.28:863][722]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionCharFE216723494AEA340A6BFE811A6FE118.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.35.28:879][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 7.47 sec)
+[2024.01.04-07.35.28:881][722]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.35.28:881][722]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.35.35:034][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2024.01.04-07.35.36:066][905]LogSlate: Window 'Save Content' being destroyed
+[2024.01.04-07.35.36:094][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.35.36:201][905]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Death/AnimSequences/Stun
+[2024.01.04-07.35.36:202][905]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Stun316E805349C7162308159CA0EEF76EE2.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Death/AnimSequences/Stun.uasset'
+[2024.01.04-07.35.36:207][905]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Knight/AnimSequences/Stun
+[2024.01.04-07.35.36:208][905]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Stun180F0100494CA6867C0A41B535F17FB3.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Knight/AnimSequences/Stun.uasset'
+[2024.01.04-07.35.36:211][905]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Captain/AnimSequences/Stun
+[2024.01.04-07.35.36:212][905]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/StunABD6EFD54C88369148A340A309C75E29.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Captain/AnimSequences/Stun.uasset'
+[2024.01.04-07.35.36:231][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 7.61 sec)
+[2024.01.04-07.35.36:234][905]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.04-07.35.36:234][905]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Death/AnimSequences/Stun.Stun
+[2024.01.04-07.35.36:234][905]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Knight/AnimSequences/Stun.Stun
+[2024.01.04-07.35.36:234][905]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Captain/AnimSequences/Stun.Stun
+[2024.01.04-07.36.10:541][327]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Defeated
+[2024.01.04-07.36.10:576][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.36.10:660][327]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Captain/AnimSequences/Defeated
+[2024.01.04-07.36.10:660][327]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/DefeatedE71615A64211191CE439D9BF7DDDA926.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Captain/AnimSequences/Defeated.uasset'
+[2024.01.04-07.36.10:686][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 7.72 sec)
+[2024.01.04-07.36.10:710][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.04-07.36.10:725][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.04-07.36.10:740][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.04-07.36.10:742][327]AssetCheck: New page: Asset Save: Defeated
+[2024.01.04-07.36.10:742][327]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Captain/AnimSequences/Defeated.Defeated
+[2024.01.04-07.36.25:293][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.36.25:406][670]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Captain/AS_Captain
+[2024.01.04-07.36.25:406][670]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/AS_CaptainC576EA67448C57CBDF2BCCBDB1D0949A.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Captain/AS_Captain.uasset'
+[2024.01.04-07.36.25:433][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 7.86 sec)
+[2024.01.04-07.36.25:434][670]AssetCheck: New page: Asset Save: AS_Captain
+[2024.01.04-07.36.25:434][670]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/Captain/AS_Captain.AS_Captain
+[2024.01.04-07.36.27:366][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.04-07.36.28:576][725]LogSlate: Window 'Save Content' being destroyed
+[2024.01.04-07.36.28:605][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.36.28:718][725]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Captain/AnimSequences/Defeated
+[2024.01.04-07.36.28:719][725]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Defeated82EB12E34B240F7043F40C93AEE2F948.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Captain/AnimSequences/Defeated.uasset'
+[2024.01.04-07.36.28:743][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 8.00 sec)
+[2024.01.04-07.36.28:745][725]AssetCheck: New page: Asset Save: Defeated
+[2024.01.04-07.36.28:745][725]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Captain/AnimSequences/Defeated.Defeated
+[2024.01.04-07.37.15:939][722]BlueprintLog: New page: Compile ABP_Captain
+[2024.01.04-07.37.15:978][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2024.01.04-07.37.16:649][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.37.16:785][744]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Captain/ABP_Captain
+[2024.01.04-07.37.16:786][744]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/ABP_Captain4EC2ED204971B84F5B9F07A4C5759284.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Captain/ABP_Captain.uasset'
+[2024.01.04-07.37.16:801][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 8.15 sec)
+[2024.01.04-07.37.16:803][744]AssetCheck: New page: Asset Save: ABP_Captain
+[2024.01.04-07.37.16:803][744]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Captain/ABP_Captain.ABP_Captain
+[2024.01.04-07.38.16:632][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.01.04-07.38.16:636][990]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Playground_Map' took 0.028
+[2024.01.04-07.38.16:636][990]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Captain/ABP_Captain] ([2] browsable assets)...
+[2024.01.04-07.38.16:636][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Captain/ABP_Captain]
+[2024.01.04-07.38.16:657][990]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Captain/ABP_Captain_Auto3
+[2024.01.04-07.38.16:657][990]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/ABP_Captain_Auto35610C9CF47F2C2E4F339C4920C179236.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Autosaves/Game/Blueprints/Characters/Captain/ABP_Captain_Auto3.uasset'
+[2024.01.04-07.38.16:658][990]LogFileHelpers: Auto-saving content packages took 0.023
+[2024.01.04-07.38.18:225][ 29]BlueprintLog: New page: Compile ABP_Captain
+[2024.01.04-07.38.18:274][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.01.04-07.38.18:789][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.38.18:997][ 40]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Captain/ABP_Captain
+[2024.01.04-07.38.18:998][ 40]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/ABP_Captain748F5B634D744D28AD62E0B89DD81C36.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Captain/ABP_Captain.uasset'
+[2024.01.04-07.38.19:033][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 243 ms (total: 8.39 sec)
+[2024.01.04-07.38.19:037][ 40]AssetCheck: New page: Asset Save: ABP_Captain
+[2024.01.04-07.38.19:037][ 40]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Captain/ABP_Captain.ABP_Captain
+[2024.01.04-07.38.58:415][169]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.38.58:503][169]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.38.58:573][169]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.38.58:656][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.01.04-07.38.58:838][170]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.38.58:957][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.38.59:061][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.38.59:062][171]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionChar2FDFDB584359E6E05A9F76B6EB0E026F.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.38.59:079][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 8.52 sec)
+[2024.01.04-07.38.59:081][171]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.38.59:081][171]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.38.59:089][171]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.39.39:604][316]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.40.10:759][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.40.10:887][405]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.40.10:888][405]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionChar9D92CBC2441E3772C003E79F2A5C4659.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.40.10:903][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 8.66 sec)
+[2024.01.04-07.40.10:906][405]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.40.10:906][405]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.40.30:881][ 87]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/Death/AS_Death.AS_Death
+[2024.01.04-07.40.30:928][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.40.30:929][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.40.31:064][ 87]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2024.01.04-07.40.31:072][ 87]LogViewport: Scene viewport resized to 834x776, mode Windowed.
+[2024.01.04-07.41.10:268][762]LogViewport: Scene viewport resized to 834x462, mode Windowed.
+[2024.01.04-07.41.20:303][ 45]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Defeated
+[2024.01.04-07.41.20:342][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.41.20:428][ 45]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Death/AnimSequences/Defeated
+[2024.01.04-07.41.20:428][ 45]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Defeated6EF270CD409D64E45E664DAEAC856399.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Death/AnimSequences/Defeated.uasset'
+[2024.01.04-07.41.20:454][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 8.77 sec)
+[2024.01.04-07.41.20:488][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.01.04-07.41.20:510][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.04-07.41.20:527][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.04-07.41.20:529][ 45]AssetCheck: New page: Asset Save: Defeated
+[2024.01.04-07.41.20:529][ 45]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Death/AnimSequences/Defeated.Defeated
+[2024.01.04-07.41.39:135][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.41.39:256][567]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Death/AS_Death
+[2024.01.04-07.41.39:257][567]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/AS_Death7549B5FD44504146473585944C0932DF.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Death/AS_Death.uasset'
+[2024.01.04-07.41.39:282][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 8.92 sec)
+[2024.01.04-07.41.39:284][567]AssetCheck: New page: Asset Save: AS_Death
+[2024.01.04-07.41.39:284][567]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/Death/AS_Death.AS_Death
+[2024.01.04-07.41.41:595][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.01.04-07.41.42:786][636]LogSlate: Window 'Save Content' being destroyed
+[2024.01.04-07.41.42:815][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.41.42:928][636]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Death/AnimSequences/Defeated
+[2024.01.04-07.41.42:929][636]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Defeated489E1AA846C701D31E55C2A7F91000C9.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Death/AnimSequences/Defeated.uasset'
+[2024.01.04-07.41.42:953][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 9.06 sec)
+[2024.01.04-07.41.42:954][636]AssetCheck: New page: Asset Save: Defeated
+[2024.01.04-07.41.42:954][636]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Death/AnimSequences/Defeated.Defeated
+[2024.01.04-07.42.26:301][461]LogInterchangeEngine: [Pending] Importing
+[2024.01.04-07.42.26:301][461]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Asus/Downlo...ine/120x80_PNGSheets/_DeathNoMovement.png]
+[2024.01.04-07.42.26:313][462]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.01.04-07.42.26:346][462]LogTexture: Display: Building textures: /Game/MyPaperAssets/Knigth/Textures/_DeathNoMovement._DeathNoMovement (TFO_AutoDXT, 1200x80 x1x1x1) (Required Memory Estimate: 15.199219 MB), EncodeSpeed: Fast
+[2024.01.04-07.42.26:356][462]LogInterchangeEngine: [Pending] Importing
+[2024.01.04-07.42.26:697][462]LogInterchangeEngine: [Success] Import Done
+[2024.01.04-07.42.26:739][463]LogInterchangeEngine: [Success] Import Done
+[2024.01.04-07.42.48:238][137]LogTexture: Display: Building textures: /Game/MyPaperAssets/Knigth/Textures/_DeathNoMovement._DeathNoMovement (BGRA8, 1200x80 x1x1x1) (Required Memory Estimate: 2.870117 MB), EncodeSpeed: Fast
+[2024.01.04-07.42.49:863][215]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MyPaperAssets/Knigth/Textures/_DeathNoMovement._DeathNoMovement
+[2024.01.04-07.42.50:006][215]LogViewport: Scene viewport resized to 1219x771, mode Windowed.
+[2024.01.04-07.42.58:473][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.42.58:596][466]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Textures/_DeathNoMovement
+[2024.01.04-07.42.58:596][466]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement21B06DDD4BF1A6EA2A072F8E443E623A.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Textures/_DeathNoMovement.uasset'
+[2024.01.04-07.42.58:616][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 9.20 sec)
+[2024.01.04-07.42.58:617][466]AssetCheck: New page: Asset Save: _DeathNoMovement
+[2024.01.04-07.42.58:617][466]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/MyPaperAssets/Knigth/Textures/_DeathNoMovement._DeathNoMovement
+[2024.01.04-07.42.59:825][506]LogSlate: Window '_DeathNoMovement' being destroyed
+[2024.01.04-07.42.59:835][506]LogSlate: Window '_DeathNoMovement' being destroyed
+[2024.01.04-07.42.59:862][506]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.42.59:862][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.42.59:882][506]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.42.59:882][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.42.59:931][506]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.42.59:931][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.42.59:977][506]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.42.59:977][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.43.00:034][506]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.43.00:034][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.43.00:052][506]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.43.00:053][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.43.00:107][506]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.04-07.43.00:107][506]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.43.00:107][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.43.00:176][506]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.43.00:177][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.43.07:096][734]LogViewport: Scene viewport resized to 1006x871, mode Windowed.
+[2024.01.04-07.43.07:124][735]LogViewport: Scene viewport resized to 882x871, mode Windowed.
+[2024.01.04-07.43.07:191][736]LogViewport: Scene viewport resized to 871x871, mode Windowed.
+[2024.01.04-07.43.41:987][957]LogSlate: Window 'Extract sprites' being destroyed
+[2024.01.04-07.44.07:966][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.44.08:088][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_10
+[2024.01.04-07.44.08:088][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_107B46602442C992F1B3EDCC8A8C342517.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_10.uasset'
+[2024.01.04-07.44.08:094][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_11
+[2024.01.04-07.44.08:094][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_1139C60D834FEC3DF2B7103EAEDC48661A.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_11.uasset'
+[2024.01.04-07.44.08:100][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_12
+[2024.01.04-07.44.08:101][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_12066947974573AB792DC042A755C9E09C.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_12.uasset'
+[2024.01.04-07.44.08:107][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_13
+[2024.01.04-07.44.08:107][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_13AC39C30344F06C231E724E8130D4B91E.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_13.uasset'
+[2024.01.04-07.44.08:113][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_14
+[2024.01.04-07.44.08:113][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_14B0504FF64C6502F0EE5BD5B1C675EA31.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_14.uasset'
+[2024.01.04-07.44.08:120][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_15
+[2024.01.04-07.44.08:120][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_15F1BF775B47DAF5CD3781D1A9416D0F7C.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_15.uasset'
+[2024.01.04-07.44.08:127][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_16
+[2024.01.04-07.44.08:127][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_16ABD06D524A267C7121C4FF97ECDB2760.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_16.uasset'
+[2024.01.04-07.44.08:133][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_17
+[2024.01.04-07.44.08:133][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_17E14EDD6A48F58791914A8DB4E995A55A.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_17.uasset'
+[2024.01.04-07.44.08:139][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_18
+[2024.01.04-07.44.08:139][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_18A9D913D24A3F66E2F3A02B93373A44D7.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_18.uasset'
+[2024.01.04-07.44.08:146][801]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_19
+[2024.01.04-07.44.08:146][801]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/_DeathNoMovement_Sprite_193B1F1C1E4181103C6CBD2FA960D7305B.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_19.uasset'
+[2024.01.04-07.44.08:165][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 9.40 sec)
+[2024.01.04-07.44.08:263][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.01.04-07.44.08:288][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.04-07.44.08:303][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.04-07.44.08:334][801]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.04-07.44.08:334][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_10._DeathNoMovement_Sprite_10
+[2024.01.04-07.44.08:334][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_11._DeathNoMovement_Sprite_11
+[2024.01.04-07.44.08:334][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_12._DeathNoMovement_Sprite_12
+[2024.01.04-07.44.08:335][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_13._DeathNoMovement_Sprite_13
+[2024.01.04-07.44.08:335][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_14._DeathNoMovement_Sprite_14
+[2024.01.04-07.44.08:335][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_15._DeathNoMovement_Sprite_15
+[2024.01.04-07.44.08:335][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_16._DeathNoMovement_Sprite_16
+[2024.01.04-07.44.08:335][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_17._DeathNoMovement_Sprite_17
+[2024.01.04-07.44.08:335][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_18._DeathNoMovement_Sprite_18
+[2024.01.04-07.44.08:335][801]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/MyPaperAssets/Knigth/Frames/Defeated/_DeathNoMovement_Sprite_19._DeathNoMovement_Sprite_19
+[2024.01.04-07.44.12:209][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.01.04-07.44.13:867][916]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.04-07.44.13:918][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.01.04-07.44.13:942][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.04-07.44.13:961][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.04-07.44.21:197][143]LogContentBrowser: Deferred new asset file creation: _DeathNoMovement
+[2024.01.04-07.44.21:226][143]LogContentBrowser: Creating deferred item: _DeathNoMovement
+[2024.01.04-07.44.21:283][144]LogContentBrowser: Renaming the item being created (Deferred Item: _DeathNoMovement).
+[2024.01.04-07.44.35:444][709]LogContentBrowser: Attempting asset rename: _DeathNoMovement -> Knight_Defeated
+[2024.01.04-07.44.35:445][709]LogContentBrowser: End creating deferred item _DeathNoMovement
+[2024.01.04-07.44.38:616][810]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/MyPaperAssets/Knigth/Frames/Defeated/Knight_Defeated.Knight_Defeated
+[2024.01.04-07.44.38:617][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.44.38:617][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.44.38:808][810]LogViewport: Scene viewport resized to 1312x611, mode Windowed.
+[2024.01.04-07.44.45:190][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.44.45:325][967]LogSavePackage: Moving output files for package: /Game/MyPaperAssets/Knigth/Frames/Defeated/Knight_Defeated
+[2024.01.04-07.44.45:325][967]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Knight_Defeated7F07E6A9483E3DA394622A848941B29B.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/MyPaperAssets/Knigth/Frames/Defeated/Knight_Defeated.uasset'
+[2024.01.04-07.44.45:345][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 9.55 sec)
+[2024.01.04-07.44.45:345][967]AssetCheck: New page: Asset Save: Knight_Defeated
+[2024.01.04-07.44.45:345][967]LogContentValidation: Display: Validating /Script/Paper2D.PaperFlipbook /Game/MyPaperAssets/Knigth/Frames/Defeated/Knight_Defeated.Knight_Defeated
+[2024.01.04-07.44.46:602][  0]LogSlate: Window 'Knight_Defeated' being destroyed
+[2024.01.04-07.44.46:649][  0]LogSlate: Window 'Knight_Defeated' being destroyed
+[2024.01.04-07.44.46:666][  0]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.44.46:666][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.45.14:147][979]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/Knight/AS_Knight.AS_Knight
+[2024.01.04-07.45.14:264][979]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.45.14:264][979]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.45.14:344][979]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2024.01.04-07.45.14:355][979]LogViewport: Scene viewport resized to 836x780, mode Windowed.
+[2024.01.04-07.45.17:757][ 53]LogViewport: Scene viewport resized to 836x464, mode Windowed.
+[2024.01.04-07.45.27:068][294]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Defeated
+[2024.01.04-07.45.27:104][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.45.27:192][294]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Knight/AnimSequences/Defeated
+[2024.01.04-07.45.27:192][294]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Defeated2917481D4B87D95B2484BD8AD60AADA5.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Knight/AnimSequences/Defeated.uasset'
+[2024.01.04-07.45.27:219][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 9.67 sec)
+[2024.01.04-07.45.27:247][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.04-07.45.27:270][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.04-07.45.27:287][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.04-07.45.27:289][294]AssetCheck: New page: Asset Save: Defeated
+[2024.01.04-07.45.27:289][294]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Knight/AnimSequences/Defeated.Defeated
+[2024.01.04-07.45.42:810][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.45.42:940][665]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Knight/AS_Knight
+[2024.01.04-07.45.42:941][665]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/AS_KnightA7E96D0D491480A87AA450AEA43BFD5C.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Knight/AS_Knight.uasset'
+[2024.01.04-07.45.42:969][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 9.83 sec)
+[2024.01.04-07.45.42:971][665]AssetCheck: New page: Asset Save: AS_Knight
+[2024.01.04-07.45.42:971][665]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/Knight/AS_Knight.AS_Knight
+[2024.01.04-07.45.44:083][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.04-07.45.45:210][692]LogSlate: Window 'Save Content' being destroyed
+[2024.01.04-07.45.45:237][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.45.45:334][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Knight/AnimSequences/Defeated
+[2024.01.04-07.45.45:334][692]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Defeated1D86BD9943E48D01E0FC548285E185D7.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Knight/AnimSequences/Defeated.uasset'
+[2024.01.04-07.45.45:365][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 9.95 sec)
+[2024.01.04-07.45.45:368][692]AssetCheck: New page: Asset Save: Defeated
+[2024.01.04-07.45.45:368][692]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/Knight/AnimSequences/Defeated.Defeated
+[2024.01.04-07.46.41:075][986]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/Death/AS_Death.AS_Death
+[2024.01.04-07.46.41:128][986]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.46.41:128][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.46.41:196][986]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2024.01.04-07.46.41:206][986]LogViewport: Scene viewport resized to 836x780, mode Windowed.
+[2024.01.04-07.46.55:993][354]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/Captain/AS_Captain.AS_Captain
+[2024.01.04-07.46.56:038][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.46.56:038][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.46.56:110][354]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/PaperZD.PaperZDAnimSequence_Flipbook
+[2024.01.04-07.46.56:123][354]LogViewport: Scene viewport resized to 836x780, mode Windowed.
+[2024.01.04-07.46.59:036][426]LogViewport: Scene viewport resized to 836x464, mode Windowed.
+[2024.01.04-07.47.04:763][559]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Blueprints/Characters/Captain/ABP_Captain.ABP_Captain
+[2024.01.04-07.47.04:763][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.47.04:763][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.47.21:089][975]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Blueprints/Characters/Death/ABP_Death.ABP_Death
+[2024.01.04-07.47.21:089][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.47.21:090][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.47.57:325][898]BlueprintLog: New page: Compile ABP_Death
+[2024.01.04-07.47.57:368][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.01.04-07.48.00:048][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.48.00:183][963]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Death/ABP_Death
+[2024.01.04-07.48.00:185][963]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/ABP_Death63FE229648BACD399E15A2AE5D9496B1.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Death/ABP_Death.uasset'
+[2024.01.04-07.48.00:201][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 10.1 sec)
+[2024.01.04-07.48.00:203][963]AssetCheck: New page: Asset Save: ABP_Death
+[2024.01.04-07.48.00:203][963]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Death/ABP_Death.ABP_Death
+[2024.01.04-07.48.05:961][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.48.06:097][106]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Captain/ABP_Captain
+[2024.01.04-07.48.06:098][106]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/ABP_CaptainA40422ED474C4EFDA67CAC9C0D55A2EA.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Captain/ABP_Captain.uasset'
+[2024.01.04-07.48.06:113][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 10.2 sec)
+[2024.01.04-07.48.06:116][106]AssetCheck: New page: Asset Save: ABP_Captain
+[2024.01.04-07.48.06:116][106]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Captain/ABP_Captain.ABP_Captain
+[2024.01.04-07.48.12:965][280]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Blueprints/Characters/Knight/ABP_Knight.ABP_Knight
+[2024.01.04-07.48.12:966][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.48.12:966][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.48.44:033][ 65]BlueprintLog: New page: Compile ABP_Knight
+[2024.01.04-07.48.44:076][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.01.04-07.48.44:610][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.48.44:764][ 79]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Knight/ABP_Knight
+[2024.01.04-07.48.44:765][ 79]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/ABP_Knight5194F3644A4D2FDF29A72DA0C0EF02DC.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Knight/ABP_Knight.uasset'
+[2024.01.04-07.48.44:783][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 10.4 sec)
+[2024.01.04-07.48.44:785][ 79]AssetCheck: New page: Asset Save: ABP_Knight
+[2024.01.04-07.48.44:785][ 79]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Knight/ABP_Knight.ABP_Knight
+[2024.01.04-07.48.55:867][378]BlueprintLog: New page: Compile ABP_Knight
+[2024.01.04-07.48.55:904][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2024.01.04-07.48.56:352][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.48.56:493][388]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Knight/ABP_Knight
+[2024.01.04-07.48.56:494][388]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/ABP_Knight26D9D9734596764BF7E584BC468870FD.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/Knight/ABP_Knight.uasset'
+[2024.01.04-07.48.56:512][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 10.5 sec)
+[2024.01.04-07.48.56:514][388]AssetCheck: New page: Asset Save: ABP_Knight
+[2024.01.04-07.48.56:514][388]LogContentValidation: Display: Validating /Script/PaperZD.PaperZDAnimBP /Game/Blueprints/Characters/Knight/ABP_Knight.ABP_Knight
+[2024.01.04-07.49.03:969][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.04-07.49.03:981][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.04-07.49.03:981][516]PIE: New page: PIE session: Playground_Map (4 ene. 2024 9:49:03)
+[2024.01.04-07.49.03:982][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Playground_Map
+[2024.01.04-07.49.03:985][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003151s)
+[2024.01.04-07.49.03:985][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Playground_Map.Playground_Map to /Game/Maps/UEDPIE_0_Playground_Map.Playground_Map (0.003229s)
+[2024.01.04-07.49.04:008][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.04-07.49.04:010][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.49.04:010][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.49.04:010][516]LogAIModule: Creating AISystem for world Playground_Map
+[2024.01.04-07.49.04:011][516]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2024.01.04-07.49.04:011][516]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.04-07.49.04:011][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.04-07.49.04:011][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.04-07.49.04:011][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.04-07.49.04:011][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.04-07.49.04:011][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.04-07.49.04:011][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.04-07.49.04:011][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.04-07.49.04:011][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.04-07.49.04:011][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.04-07.49.04:011][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.04-07.49.04:011][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.04-07.49.04:013][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.04-07.49.04:170][516]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.01.04-07.49.04:170][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.04-07.49.04:170][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.04-07.49.04:170][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.04-07.49.04:171][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.04-07.49.04:171][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.04-07.49.04:173][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.04-07.49.04:173][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.04-07.49.04:173][516]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.04-07.49.04:173][516]LogAudio: Display: Audio Device (ID: 5) registered with world 'Playground_Map'.
+[2024.01.04-07.49.04:173][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.04-07.49.04:177][516]LogLoad: Game class is 'GM_MyKnight_C'
+[2024.01.04-07.49.04:179][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Playground_Map.Playground_Map up for play (max tick rate 60) at 2024.01.04-08.49.04
+[2024.01.04-07.49.04:179][516]LogWorld: Bringing up level for play took: 0.001940
+[2024.01.04-07.49.04:182][516]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.01.04-07.49.04:185][516]PIE: Server logged in
+[2024.01.04-07.49.04:185][516]PIE: Play in editor total start time 0,204 seconds.
+[2024.01.04-07.49.07:481][704]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.49.10:081][860]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.49.11:347][936]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.49.12:314][994]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.49.15:586][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-07.49.15:586][188]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Playground_Map
+[2024.01.04-07.49.15:586][188]LogWorld: UWorld::CleanupWorld for Playground_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.49.15:587][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.49.15:590][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.04-07.49.15:595][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.49.15:607][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-07.49.15:607][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.04-07.49.15:607][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.04-07.49.15:609][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.04-07.49.15:619][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.01.04-07.49.15:680][189]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.49.15:741][189]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.01.04-07.49.15:774][189]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.49.25:997][733]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.49.26:154][734]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.49.26:990][781]Cmd: DELETE
+[2024.01.04-07.49.26:990][781]Cmd: ACTOR DELETE
+[2024.01.04-07.49.26:993][781]LogEditorActor: Deleted Actor: BP_Death_C
+[2024.01.04-07.49.27:029][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.04-07.49.27:032][781]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.01.04-07.49.34:431][203]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain_C
+[2024.01.04-07.49.34:431][203]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain_C
+[2024.01.04-07.49.34:433][203]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain as actor: BP_Captain_C /Game/Maps/Playground_Map.Playground_Map:PersistentLevel.BP_Captain_C_0
+[2024.01.04-07.49.34:435][203]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain as actor: BP_Captain_C /Game/Maps/Playground_Map.Playground_Map:PersistentLevel.BP_Captain_C_0
+[2024.01.04-07.49.36:556][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain_C
+[2024.01.04-07.49.36:556][329]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain_C
+[2024.01.04-07.49.36:560][329]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain as actor: BP_Captain_C /Game/Maps/Playground_Map.Playground_Map:PersistentLevel.BP_Captain_C_1
+[2024.01.04-07.49.36:561][329]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/Captain/BP_Captain.BP_Captain as actor: BP_Captain_C /Game/Maps/Playground_Map.Playground_Map:PersistentLevel.BP_Captain_C_1
+[2024.01.04-07.49.36:585][329]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.49.36:729][330]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.49.52:753][ 87]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.04-07.49.52:767][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.04-07.49.52:767][ 87]PIE: New page: PIE session: Playground_Map (4 ene. 2024 9:49:52)
+[2024.01.04-07.49.52:767][ 87]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Playground_Map
+[2024.01.04-07.49.52:770][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002900s)
+[2024.01.04-07.49.52:770][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Playground_Map.Playground_Map to /Game/Maps/UEDPIE_0_Playground_Map.Playground_Map (0.002965s)
+[2024.01.04-07.49.52:789][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.04-07.49.52:793][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.49.52:793][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.49.52:794][ 87]LogAIModule: Creating AISystem for world Playground_Map
+[2024.01.04-07.49.52:794][ 87]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2024.01.04-07.49.52:794][ 87]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.01.04-07.49.52:794][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.04-07.49.52:794][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.04-07.49.52:794][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.04-07.49.52:794][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.04-07.49.52:794][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.04-07.49.52:794][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.04-07.49.52:794][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.04-07.49.52:794][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.04-07.49.52:795][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.04-07.49.52:795][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.04-07.49.52:795][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.04-07.49.52:796][ 87]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.04-07.49.52:948][ 87]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.01.04-07.49.52:949][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.04-07.49.52:949][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.04-07.49.52:949][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.04-07.49.52:950][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.01.04-07.49.52:950][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.01.04-07.49.52:952][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.01.04-07.49.52:952][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.01.04-07.49.52:952][ 87]LogInit: FAudioDevice initialized with ID 6.
+[2024.01.04-07.49.52:952][ 87]LogAudio: Display: Audio Device (ID: 6) registered with world 'Playground_Map'.
+[2024.01.04-07.49.52:952][ 87]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.04-07.49.52:978][ 87]LogLoad: Game class is 'GM_MyKnight_C'
+[2024.01.04-07.49.52:979][ 87]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Playground_Map.Playground_Map up for play (max tick rate 60) at 2024.01.04-08.49.52
+[2024.01.04-07.49.52:979][ 87]LogWorld: Bringing up level for play took: 0.001197
+[2024.01.04-07.49.52:981][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.01.04-07.49.52:983][ 87]PIE: Server logged in
+[2024.01.04-07.49.52:984][ 87]PIE: Play in editor total start time 0,221 seconds.
+[2024.01.04-07.49.55:821][249]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.49.56:805][308]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.49.57:655][359]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.50.00:826][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-07.50.00:827][547]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Playground_Map
+[2024.01.04-07.50.00:827][547]LogWorld: UWorld::CleanupWorld for Playground_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.50.00:827][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.50.00:831][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.04-07.50.00:835][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.50.00:852][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.04-07.50.00:852][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.04-07.50.00:852][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.04-07.50.00:854][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.04-07.50.00:859][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-07.50.00:861][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.04-07.50.00:916][548]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.50.00:970][548]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.04-07.50.01:004][548]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.50.25:277][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.50.25:425][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.01.04-07.50.25:437][884]LogSavePackage: Moving output files for package: /Game/Maps/Playground_Map
+[2024.01.04-07.50.25:437][884]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Playground_MapC759AB3D463B1776DB2B2B80FB802D19.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Maps/Playground_Map.umap'
+[2024.01.04-07.50.25:444][884]LogFileHelpers: Saving map 'Playground_Map' took 0.063
+[2024.01.04-07.50.25:461][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 10.7 sec)
+[2024.01.04-07.50.25:463][884]AssetCheck: New page: Asset Save: Playground_Map
+[2024.01.04-07.50.25:463][884]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Playground_Map.Playground_Map
+[2024.01.04-07.52.45:481][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.52.45:481][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.52.45:481][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.52.45:782][ 88]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.52.56:678][352]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.52.56:788][352]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.52.56:870][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.01.04-07.52.57:062][353]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.52.57:236][354]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.52.57:311][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.52.57:460][355]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.52.57:461][355]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionChar3BC278E845C1472F928E33ABE785D596.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.52.57:482][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 10.9 sec)
+[2024.01.04-07.52.57:484][355]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.52.57:484][355]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.55.33:159][618]BlueprintLog: New page: Compile BP_ActionChar
+[2024.01.04-07.55.33:267][618]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.55.33:352][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.01.04-07.55.33:543][619]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.55.33:713][620]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.55.33:917][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.55.34:063][623]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_ActionChar
+[2024.01.04-07.55.34:065][623]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/BP_ActionCharE58BB1304E66CC91E9D0C4921E16FBA3.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Blueprints/Characters/BP_ActionChar.uasset'
+[2024.01.04-07.55.34:082][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 11.1 sec)
+[2024.01.04-07.55.34:085][623]AssetCheck: New page: Asset Save: BP_ActionChar
+[2024.01.04-07.55.34:085][623]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Characters/BP_ActionChar.BP_ActionChar
+[2024.01.04-07.55.41:732][874]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.04-07.55.41:743][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.04-07.55.41:743][874]PIE: New page: PIE session: Playground_Map (4 ene. 2024 9:55:41)
+[2024.01.04-07.55.41:743][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Playground_Map
+[2024.01.04-07.55.41:747][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003741s)
+[2024.01.04-07.55.41:747][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Playground_Map.Playground_Map to /Game/Maps/UEDPIE_0_Playground_Map.Playground_Map (0.003809s)
+[2024.01.04-07.55.41:767][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.01.04-07.55.41:771][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.04-07.55.41:772][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.04-07.55.41:772][874]LogAIModule: Creating AISystem for world Playground_Map
+[2024.01.04-07.55.41:772][874]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2024.01.04-07.55.41:772][874]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.04-07.55.41:773][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.04-07.55.41:773][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.04-07.55.41:773][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.04-07.55.41:773][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.04-07.55.41:773][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.04-07.55.41:773][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.04-07.55.41:773][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.04-07.55.41:773][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.04-07.55.41:773][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.04-07.55.41:773][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.04-07.55.41:773][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.04-07.55.41:775][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.04-07.55.41:927][874]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2024.01.04-07.55.41:928][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.04-07.55.41:928][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.04-07.55.41:928][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.04-07.55.41:929][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.04-07.55.41:929][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.04-07.55.41:931][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.04-07.55.41:931][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.04-07.55.41:931][874]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.04-07.55.41:931][874]LogAudio: Display: Audio Device (ID: 7) registered with world 'Playground_Map'.
+[2024.01.04-07.55.41:931][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.04-07.55.41:938][874]LogLoad: Game class is 'GM_MyKnight_C'
+[2024.01.04-07.55.41:939][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Playground_Map.Playground_Map up for play (max tick rate 60) at 2024.01.04-08.55.41
+[2024.01.04-07.55.41:939][874]LogWorld: Bringing up level for play took: 0.001117
+[2024.01.04-07.55.41:942][874]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.01.04-07.55.41:944][874]PIE: Server logged in
+[2024.01.04-07.55.41:945][874]PIE: Play in editor total start time 0,202 seconds.
+[2024.01.04-07.55.43:839][978]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.55.44:472][ 16]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.55.45:256][ 63]LogScript: Script Msg: Playing animation override...
+[2024.01.04-07.55.55:497][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-07.55.55:497][675]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Playground_Map
+[2024.01.04-07.55.55:497][675]LogWorld: UWorld::CleanupWorld for Playground_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.04-07.55.55:497][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.55.55:501][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.04-07.55.55:506][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.04-07.55.55:518][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.04-07.55.55:519][675]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.04-07.55.55:519][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.04-07.55.55:521][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.04-07.55.55:526][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.04-07.55.55:530][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.01.04-07.55.55:589][676]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+`FPaperZDComponentReferenceCustomization::BuildClassFilters'::`2'::<lambda_2>::operator()() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:183]
+FPaperZDComponentReferenceCustomization::CustomizeHeader() [D:\build\U5M-Marketplace\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\PaperZD\Source\PaperZDEditor\Private\Editors\DetailCustomizations\PaperZDComponentReferenceCustomization.cpp:91]
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.01.04-07.55.55:652][676]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.01.04-07.55.55:686][676]LogViewport: Scene viewport resized to 404x333, mode Windowed.
+[2024.01.04-07.55.57:143][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.55.57:297][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.04-07.55.57:306][749]LogSavePackage: Moving output files for package: /Game/Maps/Playground_Map
+[2024.01.04-07.55.57:307][749]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Playground_MapD47E2FD74AADEBB1F5254F9D7671F207.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Maps/Playground_Map.umap'
+[2024.01.04-07.55.57:314][749]LogFileHelpers: Saving map 'Playground_Map' took 0.060
+[2024.01.04-07.55.57:332][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 11.3 sec)
+[2024.01.04-07.55.57:333][749]AssetCheck: New page: Asset Save: Playground_Map
+[2024.01.04-07.55.57:334][749]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Playground_Map.Playground_Map
+[2024.01.04-07.56.13:942][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.04-07.56.14:132][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.04-07.56.14:150][834]LogSavePackage: Moving output files for package: /Game/Maps/Playground_Map
+[2024.01.04-07.56.14:151][834]LogSavePackage: Moving '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Saved/Playground_Map2DD6813943F8B20B518080B396120EF8.tmp' to '../../../../../../Users/Asus/Desktop/GITHUB/UE5_2D_Game/ActionPlatformer2D_M/Content/Maps/Playground_Map.umap'
+[2024.01.04-07.56.14:168][834]LogFileHelpers: Saving map 'Playground_Map' took 0.091
+[2024.01.04-07.56.14:185][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 243 ms (total: 11.5 sec)
+[2024.01.04-07.56.14:187][834]AssetCheck: New page: Asset Save: Playground_Map
+[2024.01.04-07.56.14:187][834]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Playground_Map.Playground_Map
